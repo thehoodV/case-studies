@@ -22,7 +22,6 @@ Map the real infrastructure behind a website protected by CloudFront and verify 
 - WHOIS / ASN lookup
 - subfinder
 - curl
-- Wappalyzer
 - DNS analysis
 - Reverse IP / Reverse DNS
 - Manual header inspection
@@ -53,7 +52,7 @@ This strongly suggested a legacy/shared hosting origin.
 
 ### 3️⃣ Technology Fingerprinting
 
-Using Wappalyzer and header inspection:
+Using Subfinder and header inspection:
 
 | Host                 | Technology Identified                         |
 |----------------------|-----------------------------------------------|
